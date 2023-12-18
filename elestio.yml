@@ -32,7 +32,7 @@ environments:
   - key: "SMTP_PASSWORD"
     value: "password"
   - key: "DOMAIN"
-    value: "[CI_CD_DOMAIN]"
+    value: "https://[CI_CD_DOMAIN]"
 
 config:
   runTime: "dockerCompose"
