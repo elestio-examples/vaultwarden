@@ -12,7 +12,5 @@ Deploy Password Pusher server with CI/CD on Elestio
 
 You can open vaultwarden UI here:
 
-    URL: https://[CI_CD_DOMAIN]
-    email: [ADMIN_EMAIL]
+    URL: https://[CI_CD_DOMAIN]/admin
     password: [ADMIN_PASSWORD]
-
